@@ -1,0 +1,11 @@
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.csprojResolveAssemblyReference.cache
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.Cache
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\bin\Debug\256-bit AES Encryption.dll
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\bin\Debug\256-bit AES Encryption.pdb
+f:\users\christian\documents\visual studio 2013\Projects\Encryptor\Encryptor\obj\Debug\Encryptor.mainWindow.resources
